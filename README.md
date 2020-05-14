@@ -2,7 +2,7 @@
 
 An interactive, audio-visual web experience for [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze?si=WjjCGwaSRgaa8VtrjO3lPQ) built with [Tone.js](https://tonejs.github.io/)
 
-## Application Logic
+## Planned Application Logic
 
 ![User flowchart](https://github.com/tonyketcham/FROMTHEHEART/blob/master/FTH%20User%20Flow.png)
 
