@@ -1,4 +1,10 @@
-# FROMTHEHEART
+# Who is FROMTHEHEART?
+
+An interactive, audio-visual web experience for [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze?si=WjjCGwaSRgaa8VtrjO3lPQ)
+
+## Application Logic
+
+![User flowchart](FTH User Flow.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
