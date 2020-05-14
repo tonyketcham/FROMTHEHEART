@@ -1,0 +1,3 @@
+export const drumsList = ["brakence_DNB.wav", "fortuneswan_DNB.wav", "HOLIDAYKISS_DNB.wav", "jack cates_ DNB.wav", "Moon_ DNB.wav", "Moore Kismet_DNB.wav", "VALENTINE_DNB.wav", "VeraMuch_DNB.wav"]
+export const chordsList = ["brakence_Melodics.wav", "fortuneswan_Melodics.wav", "HOLIDAYKISS_Melodics.wav", "jack cates_ Melodics.wav", "MagLo_Melodic.wav", "Moon_ MELODICS.wav", "VALENTINE_Melodics.wav", "VeraMuch_Melodics.wav"]
+export const voxList = ["brakence_Vox.wav", "fortuneswan_Vox.wav", "HOLIDAYKISS_Vox.wav", "jack cates_ Vox.wav", "Moon_ VOX.wav", "VALENTINE_Vox.wav", "VeraMuch_Vox.wav"]
