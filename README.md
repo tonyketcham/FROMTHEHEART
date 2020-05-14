@@ -1,10 +1,13 @@
 # Who is FROMTHEHEART?
 
-An interactive, audio-visual web experience for [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze?si=WjjCGwaSRgaa8VtrjO3lPQ)
+An interactive, audio-visual web experience for [FROMTHEHEART](https://open.spotify.com/artist/72bOzRJAiKDKqDmltn7uze?si=WjjCGwaSRgaa8VtrjO3lPQ) built with [Tone.js](https://tonejs.github.io/)
 
 ## Application Logic
 
-![User flowchart](FTH User Flow.png)
+![User flowchart](https://github.com/tonyketcham/FROMTHEHEART/blob/master/FTH%20User%20Flow.png)
+
+
+# Development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
